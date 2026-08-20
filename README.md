@@ -1,0 +1,4 @@
+# Student-Dashboard---Parmanand
+A minimal, responsive and dynamic Student Dashboard project made using HTML, CSS & JavaScript. 
+
+![dashboard](https://user-images.githubusercontent.com/63731449/205628267-fdb8f7e9-f8df-42a4-b0f0-ef81c2e1c577.png)
